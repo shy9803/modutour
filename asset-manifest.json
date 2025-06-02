@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modutour/static/css/main.c64e7aa2.css",
+    "main.js": "/modutour/static/js/main.9117ce87.js",
+    "index.html": "/modutour/index.html",
+    "main.c64e7aa2.css.map": "/modutour/static/css/main.c64e7aa2.css.map",
+    "main.9117ce87.js.map": "/modutour/static/js/main.9117ce87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64e7aa2.css",
+    "static/js/main.9117ce87.js"
+  ]
+}
